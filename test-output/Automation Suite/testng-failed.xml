@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Automation Suite]">
+  <test name="BVT(failed)">
+    <classes>
+      <class name="Automation.DemoTest">
+        <methods>
+          <include name="Test"/>
+        </methods>
+      </class> <!-- Automation.DemoTest -->
+    </classes>
+  </test> <!-- BVT(failed) -->
+</suite> <!-- Failed suite [Automation Suite] -->
